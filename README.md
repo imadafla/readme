@@ -43,6 +43,13 @@ A personal **Curriculum Vitae (CV) web application**, providing a modern, intera
 
 🔗 [Live CV Website](https://imadcv.vercel.app/)  
 
+### [H2 UrbanPlus – Hydrogen Energy & Water Recovery Simulator](https://github.com/imadafla/H2_UrbanPlus)  
+⚡ **Python**  
+A lightweight open-source Python package for simulating **hydrogen-based energy and water recovery systems**.  
+It integrates **PV generation, electrolysis, hydrogen storage, fuel cells, and water recovery** for building or district energy system studies.  
+
+🔗 [GitHub Repository](https://github.com/imadafla/H2_UrbanPlus)  
+
 ---
 
 ## 📜 Publications (Selected)  
