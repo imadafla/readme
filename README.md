@@ -37,18 +37,18 @@ Experienced researcher in **novel energy systems** & **sustainable building mate
 
 ## 📌 Recent Project  
 
-### [ImadCV – Personal CV Web App](https://github.com/imadafla/imadcv)  
-🖥️ **React + TailwindCSS + Lucide**  
-A personal **Curriculum Vitae (CV) web application**, providing a modern, interactive, and responsive way to showcase my professional profile, skills, experience, and projects.  
-
-🔗 [Live CV Website](https://imadcv.vercel.app/)  
-
 ### [H2 UrbanPlus – Hydrogen Energy & Water Recovery Simulator](https://github.com/imadafla/H2_UrbanPlus)  
 ⚡ **Python**  
 A lightweight open-source Python package for simulating **hydrogen-based energy and water recovery systems**.  
 It integrates **PV generation, electrolysis, hydrogen storage, fuel cells, and water recovery** for building or district energy system studies.  
 
 🔗 [GitHub Repository](https://github.com/imadafla/H2_UrbanPlus)  
+
+### [ImadCV – Personal CV Web App](https://github.com/imadafla/imadcv)  
+🖥️ **React + TailwindCSS + Lucide**  
+A personal **Curriculum Vitae (CV) web application**, providing a modern, interactive, and responsive way to showcase my professional profile, skills, experience, and projects.  
+
+🔗 [Live CV Website](https://imadcv.vercel.app/)  
 
 ---
 
